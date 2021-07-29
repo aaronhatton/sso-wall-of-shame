@@ -383,3 +383,12 @@
   pricing_source: https://zapier.com/app/billing/plans/
   updated_at: 2019-10-19
   
+- name: Bizzabo
+  url: https://bizzabo.com
+  base_pricing: Undisclosed
+  sso_pricing: $5k extra per year
+  percent_increase: Varies
+  pricing_source: https://bizzabo.com/pricing
+  pricing_note: Quote
+  footnotes: "[^Bizzabo]: SSO is included in the Enterprise version which costs over $100k per year"
+  updated_at: 2021-07-29
